@@ -35,7 +35,7 @@ Apply clustering algorithms to segment an e-commerce company's customer base int
 
 ## Files
 - Customer_Segmentation.ipynb
-- customer_data.csv
+- customer_segmentation.csv
 
 ## Business Applications
 Customer segmentation helps businesses identify high-value customers, understand purchasing patterns, improve customer retention, and develop targeted marketing campaigns.
